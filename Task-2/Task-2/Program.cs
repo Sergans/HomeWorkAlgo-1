@@ -30,7 +30,7 @@ namespace Task_2
             return sum;//O(1)
 
         }
-        //O(N*N*N),O(N^3)
+        //O(N*N*N*1*1)=O(N*N*N)=O(N^3)
 
 
         static void Main(string[] args)
